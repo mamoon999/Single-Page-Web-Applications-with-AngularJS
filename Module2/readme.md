@@ -14,5 +14,3 @@ Next to each item in the list should be a button with the label "Bought". When t
 The "Already Bought" list should initially be empty and display a message "Nothing bought yet". Make sure the message appears only when the list is empty. Once something is "bought" and appears on this list, the format of each item in the list should be Bought item_quantity item_name. For example, the bought item of 10 cookies mentioned before would appear in this list as Bought 10 cookies.
 
 Once the user "buys" every item on the "To Buy" list, i.e., clicks on the "Bought" button for every item in the "To Buy" list, instead of the empty "To Buy" list, display the message "Everything is bought!"
-
-[See my solution web page](https://igogra.github.io/Single-Page-Web-Applications-with-AngularJS/Module2/)
